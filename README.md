@@ -28,6 +28,8 @@ Apply the migrations: [http://localhost:9000](http://localhost:9000)
 
 ## API
 
+The API accepts `POST` request data in a `GET` query string for simplicity.
+
 ```
 POST /visitors?timestamp={millis_since_epoch}&user={user_id}&event={click|impression}
 GET /visitors?timestamp={millis_since_epoch}
