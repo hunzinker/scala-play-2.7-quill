@@ -1,5 +1,7 @@
 # Example Play 2.7 Application With Quill 
 
+[![Build Status](https://travis-ci.com/hunzinker/scala-play-2.7-quill.svg?branch=master)](https://travis-ci.com/hunzinker/scala-play-2.7-quill)
+
 Example of how to use `quill-jdbc` with play 2.7.
 
 Setup:
